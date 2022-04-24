@@ -1,0 +1,8 @@
+C:\Users\rs323\Desktop\Studying C#\My personal projects\Dias da semana\Dias da Semana\Dias da Semana\obj\Debug\Dias da Semana.csproj.AssemblyReference.cache
+C:\Users\rs323\Desktop\Studying C#\My personal projects\Dias da semana\Dias da Semana\Dias da Semana\obj\Debug\Dias da Semana.csproj.SuggestedBindingRedirects.cache
+C:\Users\rs323\Desktop\Studying C#\My personal projects\Dias da semana\Dias da Semana\Dias da Semana\obj\Debug\Dias da Semana.csproj.CoreCompileInputs.cache
+C:\Users\rs323\Desktop\Studying C#\My personal projects\Dias da semana\Dias da Semana\Dias da Semana\bin\Debug\Dias da Semana.exe.config
+C:\Users\rs323\Desktop\Studying C#\My personal projects\Dias da semana\Dias da Semana\Dias da Semana\bin\Debug\Dias da Semana.exe
+C:\Users\rs323\Desktop\Studying C#\My personal projects\Dias da semana\Dias da Semana\Dias da Semana\bin\Debug\Dias da Semana.pdb
+C:\Users\rs323\Desktop\Studying C#\My personal projects\Dias da semana\Dias da Semana\Dias da Semana\obj\Debug\Dias da Semana.exe
+C:\Users\rs323\Desktop\Studying C#\My personal projects\Dias da semana\Dias da Semana\Dias da Semana\obj\Debug\Dias da Semana.pdb
